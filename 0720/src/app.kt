@@ -66,7 +66,7 @@ class Animal (val name : String, var age : Int){
             return age > 10
         }
 }
-
+/*val과 var의 차이는? */
 
 fun main(args : Array<String>){
     // #1.
